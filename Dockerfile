@@ -1,7 +1,7 @@
 FROM alpine:latest
-MAINTAINER fithwum
+MAINTAINER Daedilus
 
-ARG INSTALL_SCRIPT=https://raw.githubusercontent.com/fithwum/foundryvtt/master/files/Install_Script.sh
+ARG INSTALL_SCRIPT=https://raw.githubusercontent.com/Daedilus/foundryvtt/master/files/Install_Script.sh
 
 ENV PUID=99
 ENV GUID=100
